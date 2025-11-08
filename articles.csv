@@ -1,4 +1,4 @@
-﻿ArtNr,Artikel,Qualitaet,Workwear,EK,Grammatur,Stoff
+ArtNr,Artikel,Qualitaet,Workwear,EK,Grammatur,Stoff
 JN002,T-Shirt kurzarm,Gut,Nein,4.60,180,B100
 JN800,T-Shirt kurzarm,Gut,Ja,8.00,180,B100
 JN827,T-Shirt kurzarm,Gut,Ja,4.50,165,P100
@@ -40,3 +40,21 @@ V5008,Hemd kurzarm,Sehr gut,Nein,11.00,115,Blend
 V5012S,Hemd kurzarm,Sehr gut,Nein,14.00,115,Blend
 JN1880,Schürze,Premium,Nein,4.50,210,Blend
 JN1881,Schürze,Premium,Nein,6.00,210,Blend
+RGJ600,Hose lang,Sehr gut,Ja,15.50,245,Blend
+JN832,Hose lang,Premium,Ja,33.50,260,Blend
+HK015,Hose lang,Premium,Ja,34.50,275,Blend
+JN835,Hose kurz,Sehr gut,Ja,22.00,260,Blend
+JN880,Hose kurz,Gut,Ja,12.50,260,Blend
+JN872,Hose kurz,Premium,Ja,23.00,250,Blend
+HK016,Hose kurz,Premium,Ja,39.00,210,Blend
+MB7408,Mütze,Sehr gut,Nein,2.00,NaN,P100
+MB7500,Mütze,Sehr gut,Ja,2.00,NaN,P100
+MB7409,Mütze,Sehr gut,Ja,3.50,NaN,B100
+MB7122,Mütze,Sehr gut,Ja,2.50,NaN,Blend
+MB7137,Mütze,Sehr gut,Ja,3.50,NaN,B100
+BF830N,Mütze,Sehr gut,Ja,3.50,NaN,B100
+BF380,Mütze,Sehr gut,Ja,2.50,NaN,Blend
+MB049,Cap,Sehr gut,Nein,3.00,350,B100
+MB6183,Cap,Premium,Ja,8.50,NaN,Blend
+MB6212,Cap,Sehr gut,Ja,2.50,190,B100
+AT287,Cap,Sehr gut,Ja,4.50,135,B100
