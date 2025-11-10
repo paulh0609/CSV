@@ -2,15 +2,15 @@ ArtNr,Artikel,Qualitaet,Workwear,EK,Grammatur,Stoff
 JN790,T-Shirt kurzarm,Gut,Nein,2.65,180,B100
 JN002,T-Shirt kurzarm,Sehr Gut,Nein,4.60,180,B100
 TJ8000,T-Shirt kurzarm,Sehr gut,Nein,4.44,185,B100
-TJ1150,T-Shirt kurzarm,Sehr gut,Nein,4.49,185,B100
-JN800,T-Shirt kurzarm,Gut,Ja,7.65,180,B100
+TJ1150,T-Shirt kurzarm,Premium,Nein,4.49,185,B100
+JN800,T-Shirt kurzarm,Premium,Ja,7.65,180,B100
 TJ530,T-Shirt langarm,Premium,Nein,9.00,220,B100
 TJ8007,T-Shirt langarm,Sehr gut,Nein,6.00,185,B100
-JN070,Polo kurzarm,Sehr gut,Nein,7.50,195,B100
-JN071,Polo kurzarm,Sehr gut,Nein,7.00,195,B100
-JN801,Polo kurzarm,Premium,Ja,10.50,220,B100
-JK240,Polo kurzarm,Premium,Ja,6.00,240,B100
-JJ7556,Polo kurzarm,Premium,Nein,12.99,220,B100
+JN792,Polo kurzarm,Gut,Nein,4.60,180,B100
+JN070,Polo kurzarm,Sehr gut,Nein,7.20,195,B100
+JK240,Polo kurzarm,Sehr gut,Ja,5.90,240,B100
+TJ1405,Polo kurzarm,Premium,Nein,13.34,215,Blend
+JJ7556,Polo kurzarm,Premium,Nein,7.65,220,B100
 BCU427,Polo langarm,Sehr gut,Nein,8.00,210,Blend
 JK215,Polo langarm,Sehr gut,Nein,6.50,210,Blend
 BCID2,Sweatshirt,Sehr gut,Nein,7.50,280,Blend
