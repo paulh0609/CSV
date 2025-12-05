@@ -1,0 +1,51 @@
+ArtNr,Alt,Artikel,Qualität,Workwear,EK,Stoff,Grammatur
+TS001,,T-Shirt kurzarm,Normal,Nein,4.50,Baumwolle,160
+TS001F,TS001,T-Shirt kurzarm,Normal,Nein,4.80,Baumwolle,160
+TS002,,T-Shirt kurzarm,Gut,Nein,6.20,Bio-Baumwolle,180
+TS002F,TS002,T-Shirt kurzarm,Gut,Nein,6.50,Bio-Baumwolle,180
+TS003,,T-Shirt kurzarm,Premium,Nein,8.90,Pima-Baumwolle,200
+TS003F,TS003,T-Shirt kurzarm,Premium,Nein,9.20,Pima-Baumwolle,200
+TL001,,T-Shirt langarm,Normal,Nein,6.80,Baumwolle,180
+TL001F,TL001,T-Shirt langarm,Normal,Nein,7.10,Baumwolle,180
+TL002,,T-Shirt langarm,Gut,Nein,8.50,Bio-Baumwolle,200
+TL002F,TL002,T-Shirt langarm,Gut,Nein,8.80,Bio-Baumwolle,200
+PK001,,Polo kurzarm,Normal,Nein,8.90,Piqué,200
+PK001F,PK001,Polo kurzarm,Normal,Nein,9.20,Piqué,200
+PK002,,Polo kurzarm,Gut,Nein,11.50,Piqué Premium,220
+PK002F,PK002,Polo kurzarm,Gut,Nein,11.80,Piqué Premium,220
+PK003,,Polo kurzarm,Premium,Ja,14.20,Tech-Piqué,240
+PL001,,Polo langarm,Normal,Nein,11.20,Piqué,220
+PL002,,Polo langarm,Gut,Nein,13.80,Piqué Premium,240
+SW001,,Sweatshirt,Normal,Nein,12.50,Sweat,280
+SW001F,SW001,Sweatshirt,Normal,Nein,12.80,Sweat,280
+SW002,,Sweatshirt,Gut,Nein,15.90,French Terry,300
+SW003,,Sweatshirt,Premium,Ja,19.50,Heavy Sweat,350
+HO001,,Hoodie,Normal,Nein,16.80,Sweat,300
+HO001F,HO001,Hoodie,Normal,Nein,17.10,Sweat,300
+HO002,,Hoodie,Gut,Nein,21.50,French Terry,320
+HO003,,Hoodie,Premium,Nein,27.90,Heavy Sweat,380
+HK001,,Hemd kurzarm,Normal,Ja,14.20,Popeline,120
+HK002,,Hemd kurzarm,Gut,Ja,17.80,Popeline Premium,140
+HL001,,Hemd langarm,Normal,Ja,16.90,Popeline,120
+HL002,,Hemd langarm,Gut,Ja,21.20,Popeline Premium,140
+HL003,,Hemd langarm,Premium,Ja,26.50,Oxford,160
+SJ001,,Stoffjacke,Gut,Nein,28.90,Canvas,320
+SJ002,,Stoffjacke,Premium,Ja,35.80,Canvas Heavy,380
+SSL001,,Softshelljacke,Gut,Ja,42.50,Softshell,280
+SSL001F,SSL001,Softshelljacke,Gut,Ja,43.80,Softshell,280
+SSL002,,Softshelljacke,Premium,Ja,54.90,Softshell Pro,320
+SSW001,,Softshellweste,Gut,Ja,32.80,Softshell,260
+SSW002,,Softshellweste,Premium,Ja,41.20,Softshell Pro,300
+SCH001,,Schürze,Normal,Ja,8.90,Canvas,240
+SCH002,,Schürze,Gut,Ja,12.50,Canvas Heavy,280
+HL001,,Hose lang,Normal,Ja,18.90,Polyester-Baumwolle,260
+HL002,,Hose lang,Gut,Ja,24.50,Twill,280
+HL003,,Hose lang,Premium,Ja,31.80,Canvas,320
+HK001,,Hose kurz,Normal,Ja,14.80,Polyester-Baumwolle,240
+HK002,,Hose kurz,Gut,Ja,18.90,Twill,260
+LH001,,Latzhose,Gut,Ja,38.50,Canvas,320
+LH002,,Latzhose,Premium,Ja,48.90,Canvas Heavy,380
+CAP001,,Cap,Normal,Nein,4.20,Baumwolle,
+CAP002,,Cap,Gut,Nein,6.80,Bio-Baumwolle,
+MUT001,,Mütze,Normal,Nein,3.90,Acryl,
+MUT002,,Mütze,Gut,Nein,5.50,Merinowolle,

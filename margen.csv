@@ -1,0 +1,52 @@
+Artikelgruppe,Qualität,MargeMin,MargeMax
+T-Shirt kurzarm,Normal,40,80
+T-Shirt kurzarm,Gut,45,90
+T-Shirt kurzarm,Premium,50,100
+T-Shirt langarm,Normal,40,85
+T-Shirt langarm,Gut,45,95
+T-Shirt langarm,Premium,50,105
+Polo kurzarm,Normal,45,85
+Polo kurzarm,Gut,50,95
+Polo kurzarm,Premium,55,105
+Polo langarm,Normal,45,90
+Polo langarm,Gut,50,100
+Polo langarm,Premium,55,110
+Sweatshirt,Normal,50,90
+Sweatshirt,Gut,55,100
+Sweatshirt,Premium,60,110
+Hoodie,Normal,50,95
+Hoodie,Gut,55,105
+Hoodie,Premium,60,115
+Hemd kurzarm,Normal,45,85
+Hemd kurzarm,Gut,50,95
+Hemd kurzarm,Premium,55,105
+Hemd langarm,Normal,45,90
+Hemd langarm,Gut,50,100
+Hemd langarm,Premium,55,110
+Stoffjacke,Normal,55,95
+Stoffjacke,Gut,60,105
+Stoffjacke,Premium,65,115
+Softshelljacke,Normal,55,100
+Softshelljacke,Gut,60,110
+Softshelljacke,Premium,65,120
+Softshellweste,Normal,50,95
+Softshellweste,Gut,55,105
+Softshellweste,Premium,60,115
+Schürze,Normal,50,90
+Schürze,Gut,55,100
+Schürze,Premium,60,110
+Hose lang,Normal,50,95
+Hose lang,Gut,55,105
+Hose lang,Premium,60,115
+Hose kurz,Normal,45,90
+Hose kurz,Gut,50,100
+Hose kurz,Premium,55,110
+Latzhose,Normal,55,100
+Latzhose,Gut,60,110
+Latzhose,Premium,65,120
+Cap,Normal,60,120
+Cap,Gut,65,130
+Cap,Premium,70,140
+Mütze,Normal,60,120
+Mütze,Gut,65,130
+Mütze,Premium,70,140
