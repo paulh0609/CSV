@@ -1,12 +1,12 @@
 ArtNr,Alt,Artikel,Qualität,Workwear,EK,Stoff,Grammatur
-JN790,,T-Shirt kurzarm,Normal,Nein,2.65,B100,180
+JN790,,T-Shirt kurzarm,Standard,Nein,2.65,B100,180
 JN002,,T-Shirt kurzarm,Gut,Nein,4.60,B100,180
 TJ8000,,T-Shirt kurzarm,Gut,Nein,4.44,B100,185
 TJ1150,,T-Shirt kurzarm,Premium,Nein,4.49,B100,185
 JN800,,T-Shirt kurzarm,Premium,Ja,7.65,B100,180
 TJ530,,T-Shirt langarm,Premium,Nein,9.00,B100,220
 TJ8007,,T-Shirt langarm,Gut,Nein,6.00,B100,185
-JN792,,Polo kurzarm,Normal,Nein,4.60,B100,180
+JN792,,Polo kurzarm,Standard,Nein,4.60,B100,180
 JN070,,Polo kurzarm,Gut,Nein,7.20,B100,195
 JK240,,Polo kurzarm,Gut,Ja,5.90,B100,240
 TJ1405,,Polo kurzarm,Premium,Nein,13.34,Blend,215
@@ -30,11 +30,11 @@ RGA705,,Softshelljacke,Gut,Ja,21.50,P100,270
 JN1000,,Softshelljacke,Premium,Ja,43.50,Blend,330
 RGA915,,Softshellweste,Gut,Ja,15.50,P100,270
 JN136,,Softshellweste,Premium,Ja,24.50,Blend,330
-JN606,,Hemd langarm,Normal,Nein,4.00,B100,120
+JN606,,Hemd langarm,Standard,Nein,4.00,B100,120
 TJ4024,,Hemd langarm,Premium,Nein,29.00,Blend,113
 V5004S,,Hemd langarm,Gut,Nein,16.00,Blend,180
-V5013S,,Hemd langarm,Normal,Nein,15.00,Blend,115
-HY588,,Hemd kurzarm,Normal,Nein,12.00,P100,140
+V5013S,,Hemd langarm,Standard,Nein,15.00,Blend,115
+HY588,,Hemd kurzarm,Standard,Nein,12.00,P100,140
 V5008,,Hemd kurzarm,Gut,Nein,11.00,Blend,115
 V5012S,,Hemd kurzarm,Gut,Nein,14.00,Blend,115
 JN1880,,Schürze,Premium,Nein,4.50,Blend,210
@@ -43,7 +43,7 @@ RGJ600,,Hose lang,Gut,Ja,15.50,Blend,245
 JN832,,Hose lang,Premium,Ja,33.50,Blend,260
 HK015,,Hose lang,Premium,Ja,34.50,Blend,275
 JN835,,Hose kurz,Gut,Ja,22.00,Blend,260
-JN880,,Hose kurz,Normal,Ja,12.50,Blend,260
+JN880,,Hose kurz,Standard,Ja,12.50,Blend,260
 JN872,,Hose kurz,Premium,Ja,23.00,Blend,250
 HK016,,Hose kurz,Premium,Ja,39.00,Blend,210
 MB7408,,Mütze,Gut,Nein,2.00,P100,
