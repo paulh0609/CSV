@@ -1,59 +1,58 @@
 ArtNr,Alt,Artikel,Qualität,Workwear,EK,Stoff,Grammatur
-JN790,,T-Shirt kurzarm,Standard,Nein,2.65,B100,180
-JN002,,T-Shirt kurzarm,Gut,Nein,4.60,B100,180
-TJ8000,,T-Shirt kurzarm,Gut,Nein,4.44,B100,185
-TJ1150,,T-Shirt kurzarm,Premium,Nein,4.49,B100,185
-JN800,,T-Shirt kurzarm,Premium,Ja,7.65,B100,180
-TJ530,,T-Shirt langarm,Premium,Nein,9.00,B100,220
-TJ8007,,T-Shirt langarm,Gut,Nein,6.00,B100,185
-JN792,,Polo kurzarm,Standard,Nein,4.60,B100,180
-JN070,,Polo kurzarm,Gut,Nein,7.20,B100,195
-JK240,,Polo kurzarm,Gut,Ja,5.90,B100,240
-TJ1405,,Polo kurzarm,Premium,Nein,13.34,Blend,215
-JJ7556,,Polo kurzarm,Premium,Nein,7.65,B100,220
-BCU427,,Polo langarm,Gut,Nein,8.00,Blend,210
-JK215,,Polo langarm,Gut,Nein,6.50,Blend,210
-BCID2,,Sweatshirt,Gut,Nein,7.50,Blend,280
-JN794,,Sweatshirt,Gut,Nein,7.00,Blend,280
-JN040,,Sweatshirt,Premium,Nein,11.50,Blend,300
-JN840,,Sweatshirt,Gut,Ja,13.50,Blend,290
-JN796,,Hoodie,Gut,Nein,10.00,Blend,280
-BCU02K,,Hoodie,Gut,Nein,12.00,Blend,280
-JJ3902,,Hoodie,Premium,Nein,13.00,Blend,300
-JN047,,Hoodie,Premium,Nein,14.00,Blend,300
-JJ3907,,Stoffjacke,Premium,Nein,14.50,Blend,300
-JN059,,Stoffjacke,Premium,Nein,18.50,B100,300
-JN894,,Stoffjacke,Premium,Ja,19.75,Blend,290
-JN1130,,Softshelljacke,Gut,Ja,18.50,P100,280
-JN1020,,Softshelljacke,Gut,Ja,31.00,Blend,270
-RGA705,,Softshelljacke,Gut,Ja,21.50,P100,270
-JN1000,,Softshelljacke,Premium,Ja,43.50,Blend,330
-RGA915,,Softshellweste,Gut,Ja,15.50,P100,270
-JN136,,Softshellweste,Premium,Ja,24.50,Blend,330
-JN606,,Hemd langarm,Standard,Nein,4.00,B100,120
-TJ4024,,Hemd langarm,Premium,Nein,29.00,Blend,113
-V5004S,,Hemd langarm,Gut,Nein,16.00,Blend,180
-V5013S,,Hemd langarm,Standard,Nein,15.00,Blend,115
-HY588,,Hemd kurzarm,Standard,Nein,12.00,P100,140
-V5008,,Hemd kurzarm,Gut,Nein,11.00,Blend,115
-V5012S,,Hemd kurzarm,Gut,Nein,14.00,Blend,115
-JN1880,,Schürze,Premium,Nein,4.50,Blend,210
-JN1881,,Schürze,Premium,Nein,6.00,Blend,210
-RGJ600,,Hose lang,Gut,Ja,15.50,Blend,245
-JN832,,Hose lang,Premium,Ja,33.50,Blend,260
-HK015,,Hose lang,Premium,Ja,34.50,Blend,275
-JN835,,Hose kurz,Gut,Ja,22.00,Blend,260
-JN880,,Hose kurz,Standard,Ja,12.50,Blend,260
-JN872,,Hose kurz,Premium,Ja,23.00,Blend,250
-HK016,,Hose kurz,Premium,Ja,39.00,Blend,210
-MB7408,,Mütze,Gut,Nein,2.00,P100,
-MB7500,,Mütze,Gut,Ja,2.00,P100,
-MB7409,,Mütze,Gut,Ja,3.50,B100,
-MB7122,,Mütze,Gut,Ja,2.50,Blend,
-MB7137,,Mütze,Gut,Ja,3.50,B100,
-BF830N,,Mütze,Gut,Ja,3.50,B100,
-BF380,,Mütze,Gut,Ja,2.50,Blend,
-MB049,,Cap,Gut,Nein,3.00,B100,350
-MB6183,,Cap,Premium,Ja,8.50,Blend,
-MB6212,,Cap,Gut,Ja,2.50,B100,190
-AT287,,Cap,Gut,Ja,4.50,B100,135
+JN790,JN789,T-Shirt kurzarm,Standard,Nein,2.65,B100,180
+JN002,-,T-Shirt kurzarm,Gut,Nein,4.60,B100,180
+TJ8000,TJ8050,T-Shirt kurzarm,Gut,Nein,4.44,B100,185
+TJ1150,-,T-Shirt kurzarm,Premium,Nein,4.49,B100,185
+JN800,JN802,T-Shirt kurzarm,Premium,Ja,7.65,B100,180
+TJ530,TJ590,T-Shirt langarm,Premium,Nein,9.00,B100,220
+TJ8007,-,T-Shirt langarm,Gut,Nein,6.00,B100,185
+JN792,JN791,Polo kurzarm,Standard,Nein,4.60,B100,180
+JN070,JN071,Polo kurzarm,Gut,Nein,7.20,B100,195
+JK240,-,Polo kurzarm,Gut,Ja,5.90,B100,240
+TJ1405,TJ145,Polo kurzarm,Premium,Nein,13.34,Blend,215
+JJ7556,-,Polo kurzarm,Premium,Nein,7.65,B100,220
+BCU427,BCW464,Polo langarm,Gut,Nein,8.00,Blend,210
+JK215,JK216,Polo langarm,Gut,Nein,6.50,Blend,210
+BCID2,-,Sweatshirt,Gut,Nein,7.50,Blend,280
+JN794,JN793,Sweatshirt,Gut,Nein,7.00,Blend,280
+JN040,-,Sweatshirt,Premium,Nein,11.50,Blend,300
+JN840,-,Sweatshirt,Gut,Ja,13.50,Blend,290
+JN796,JN795,Hoodie,Gut,Nein,10.00,Blend,280
+BCU02K,BCW02Q,Hoodie,Gut,Nein,12.00,Blend,280
+JJ3902,-,Hoodie,Premium,Nein,13.00,Blend,300
+JN047,JN051,Hoodie,Premium,Nein,14.00,Blend,300
+JJ3907,-,Stoffjacke,Premium,Nein,14.50,Blend,300
+JN059,-,Stoffjacke,Premium,Nein,18.50,B100,300
+JN1810,-,Stoffjacke,Gut,Nein,23.95,Blend,380
+JN1130,JN1129,Softshelljacke,Gut,Ja,18.50,P100,280
+JN1020,JN1021,Softshelljacke,Gut,Ja,31.00,Blend,270
+RGA705,-,Softshelljacke,Gut,Ja,21.50,P100,270
+JN1000,JN1001,Softshelljacke,Premium,Ja,43.50,Blend,330
+RGA915,-,Softshellweste,Gut,Ja,15.50,P100,270
+JN136,JN138,Softshellweste,Premium,Ja,24.50,Blend,330
+TJ4024,TJ4025,Hemd langarm,Premium,Nein,29.00,Blend,113
+V5004S,V5005S,Hemd langarm,Gut,Nein,16.00,Blend,180
+V5013S,V5015S,Hemd langarm,Standard,Nein,15.00,Blend,115
+HY588,-,Hemd kurzarm,Standard,Nein,12.00,P100,140
+V5008,V5010,Hemd kurzarm,Gut,Nein,11.00,Blend,115
+V5012S,V5014S,Hemd kurzarm,Gut,Nein,14.00,Blend,115
+JN1880,-,Schürze,Premium,Nein,4.50,Blend,210
+JN1881,-,Schürze,Premium,Nein,6.00,Blend,210
+RGJ600,-,Hose lang,Gut,Ja,15.50,Blend,245
+JN832,-,Hose lang,Premium,Ja,33.50,Blend,260
+HK015,-,Hose lang,Premium,Ja,34.50,Blend,275
+JN835,-,Hose kurz,Gut,Ja,22.00,Blend,260
+JN880,-,Hose kurz,Standard,Ja,12.50,Blend,260
+JN872,-,Hose kurz,Premium,Ja,23.00,Blend,250
+HK016,-,Hose kurz,Premium,Ja,39.00,Blend,210
+MB7408,-,Mütze,Gut,Nein,2.00,P100,
+MB7500,-,Mütze,Gut,Ja,2.00,P100,
+MB7409,-,Mütze,Gut,Ja,3.50,B100,
+MB7122,-,Mütze,Gut,Ja,2.50,Blend,
+MB7137,-,Mütze,Gut,Ja,3.50,B100,
+BF830N,-,Mütze,Gut,Ja,3.50,B100,
+BF380,-,Mütze,Gut,Ja,2.50,Blend,
+MB049,-,Cap,Gut,Nein,3.00,B100,350
+MB6183,-,Cap,Premium,Ja,8.50,Blend,
+MB6212,-,Cap,Gut,Ja,2.50,B100,190
+AT287,-,Cap,Gut,Ja,4.50,B100,135
